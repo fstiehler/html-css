@@ -4,3 +4,5 @@ Para subir no GITHUB utilize o codigo abaixo
 * git status
 * git commit -m "qualquer coisa aqui"
 * git push
+
+.
